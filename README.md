@@ -1,6 +1,6 @@
 # 🧙‍♂️ Resume Wizard AI-Powered SaaS Application
 
-This is a React-based SaaS application that enables users to create, manage, and preview **AI-powered Resumes**. The application utilizes **Vite, Tailwind CSS, Strapi, Clerk Authentication, and Gemini API** for AI-powered text generation.
+This is a React-based SaaS application that enables users to create, manage, and preview **AI-powered Resumes**. The application utilizes **Vite, Tailwind CSS, Strapi, Clerk Authentication, and Gemini API** for AI-powered text generation. 👩‍💻💻📃💼
 
 ## Table of Contents
 
@@ -70,7 +70,7 @@ npm run start
 ![image](https://github.com/user-attachments/assets/fc2072b1-3e0f-454f-8d34-0f93724cd851)
 
 
-## Project Structure
+## Project Files Structure
 
 ```
 resume-builder-ai/
@@ -79,12 +79,14 @@ resume-builder-ai/
 │   └── index.html
 ├── src/
 │   ├── components/
-│   ├── dashboard/
-│   ├── service/
+│   ├── dashboard/resume/[resumeid]/edit
+|   ├── my-resume/[resumeid]/view
+│   ├── service/GlobalApi
+|   ├── home/index.jsx
 │   ├── App.jsx
 │   ├── index.jsx
 │   └── main.jsx
-├── .env
+├── .env.local
 ├── package.json
 ├── README.md
 └── vite.config.js
@@ -94,7 +96,7 @@ resume-builder-ai/
 
 - Strapi API: [https://strapi.io/documentation/v4.x/api-reference/](https://strapi.io/documentation/v4.x/api-reference/)
 - Clerk API: [https://clerk.dev/docs/api](https://clerk.dev/docs/api)
-- Gemini API: [https://www.gemini.com/api](https://www.gemini.com/api
+- Gemini API: [https://www.gemini.com/api](https://www.gemini.com/api)
 
 ## Acknowledgments
 
