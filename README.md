@@ -8,7 +8,7 @@ This is a React-based SaaS application that enables users to create, manage, and
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
+- [Project Files Structure](#project-files-structure)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -39,8 +39,6 @@ or
 npm run start
 ```
 
-### If you want to check Backend Strapi Files are in other repositories [Click Here 👉](https://github.com/HamzaZaidiX/ai-resume-builder-strapi-admin/tree/main/my-strapi-project) 
-
 ## Features
 
 - User authentication using **Clerk**
@@ -53,12 +51,14 @@ npm run start
 
 ## Technologies Used
 
-- React: A JavaScript library for building user interfaces
-- Vite: A fast build tool for modern web apps
-- Tailwind CSS: A utility-first CSS framework
-- Strapi: A headless CMS for managing content and APIs
-- Clerk: A user authentication and management library
-- Gemini API: An AI-powered text generation API
+- **React**: A **JavaScript library for building user interfaces**
+- **Vite**: A **fast build tool for modern web apps**
+- **Tailwind CSS**: A **utility-first CSS framework**
+- **Strapi**: A **headless CMS for managing content backend and APIs**
+- **Clerk**: A **user authentication and management library**
+- **Gemini API**: An **AI-powered text generation API**
+
+### If you want to check Backend Strapi Files are in other repositories [Click Here 👉](https://github.com/HamzaZaidiX/ai-resume-builder-strapi-admin/tree/main/my-strapi-project) 
 
 ## Screenshots
 ![dashboard](https://github.com/user-attachments/assets/760c55e7-0612-44c4-9f10-6357944ed501)
