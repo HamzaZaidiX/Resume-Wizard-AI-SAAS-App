@@ -26,7 +26,7 @@ cd resume-builder-ai
 npm install
 ```
 
-3. Create a `.env.local` file in the root directory and add the following variables:
+3. Create a `.env.local` file in the root directory and add the following **Environment Variables** then **Connect with any backend database** you're using :
 ```
 VITE_STRAPI_API_KEY=your_strapi_api_key
 VITE_GEMINI_API_KEY=your_gemini_api_key
@@ -46,8 +46,6 @@ npm run start
 - Preview Resumes with **AI-powered text Generation**
 - Save resumes to **Strapi backend**
 - Populate **resume data from User's profile**
-
-## Demo Project Link:
 
 ## Technologies Used
 
